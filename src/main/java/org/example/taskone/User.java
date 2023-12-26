@@ -1,4 +1,4 @@
-package org.example.task1;
+package org.example.taskone;
 
 import lombok.Getter;
 import lombok.ToString;

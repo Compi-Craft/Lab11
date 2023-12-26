@@ -1,4 +1,4 @@
-package org.example.task2;
+package org.example.tasktwo;
 
 public interface MailContentStrategy {
     String generateContent(Client client);

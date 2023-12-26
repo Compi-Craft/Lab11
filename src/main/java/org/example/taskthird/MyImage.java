@@ -1,4 +1,4 @@
-package org.example.task3;
+package org.example.taskthird;
 
 public interface MyImage {
     void display();

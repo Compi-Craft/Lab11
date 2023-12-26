@@ -1,4 +1,4 @@
-package org.example.task3;
+package org.example.taskthird;
 
 public class ProxyImage implements MyImage {
     private RealImage realImage;
